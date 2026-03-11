@@ -1,0 +1,11 @@
+Execution Log: 02_create_visualizations.R
+DateTime:  2026-03-11 09:05:43.49804 
+
+Summary of Plot Data:
+                      
+                       MILD MODERATE SEVERE
+  Placebo               210       65      6
+  Xanomeline High Dose  286      118     10
+  Xanomeline Low Dose   232      170     25
+
+Figures 1 and 2 successfully saved in 'question_3_tlg/'.

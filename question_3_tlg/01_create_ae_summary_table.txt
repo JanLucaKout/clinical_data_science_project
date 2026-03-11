@@ -1,0 +1,22 @@
+====================================================================
+Execution Log: 01_create_ae_summary_table.R
+DateTime:  2026-03-11 08:53:35.111266 
+====================================================================
+
+DATA SUMMARY:
+Number of subjects in ADSL (Denominator):  306 
+Number of Treatment-Emergent AEs (TRTEMFL='Y'):  1122 
+
+CHECKING HIERARCHY (First 5 rows of input data):
+# A tibble: 5 × 4
+  USUBJID     AESOC                                                AETERM                    ACTARM 
+  <chr>       <chr>                                                <chr>                     <chr>  
+1 01-701-1015 GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS APPLICATION SITE ERYTHEMA Placebo
+2 01-701-1015 GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS APPLICATION SITE PRURITUS Placebo
+3 01-701-1015 GASTROINTESTINAL DISORDERS                           DIARRHOEA                 Placebo
+4 01-701-1023 SKIN AND SUBCUTANEOUS TISSUE DISORDERS               ERYTHEMA                  Placebo
+5 01-701-1023 SKIN AND SUBCUTANEOUS TISSUE DISORDERS               ERYTHEMA                  Placebo
+
+====================================================================
+STATUS: Table generated and exported to HTML successfully.
+====================================================================
