@@ -1,4 +1,4 @@
-# Clinical Data Science Portfolio: CDISC SDTM/AdAM & GenAI
+# Clinical Data Science Portfolio: CDISC SDTM/ADaM & GenAI
 
 Candidate: Jan Luca Kout
 
