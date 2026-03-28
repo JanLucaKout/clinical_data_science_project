@@ -33,5 +33,5 @@ Date: March 11, 2026
    - [export_adae.R](./question_4_python/export_adae.R) - Script to export the ADAE dataset
    - [gen_ai_clinical_data_assistant.py](./question_4_python/gen_ai_clinical_data_assistant.py) - Python code of the gen-AI clinical data assistant
    - [query_results.json](./question_4_python/query_results.json) - Query Results from executing a Test Script
-   - [requirements.txt](./question_4_python/requirements.txt) - Required Python Libraries
+   - [requirements.txt](./requirements.txt) - Required Python Libraries
    - A local api_keys.env file storing the API Key in this format: GEMINI_API_KEY="your-api-key" 
